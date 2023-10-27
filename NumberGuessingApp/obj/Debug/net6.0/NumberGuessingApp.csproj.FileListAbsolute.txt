@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\bin\Debug\net6.0\NumberGuessingApp.exe
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\bin\Debug\net6.0\NumberGuessingApp.deps.json
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\bin\Debug\net6.0\NumberGuessingApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\bin\Debug\net6.0\NumberGuessingApp.dll
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\bin\Debug\net6.0\NumberGuessingApp.pdb
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.dll
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\refint\NumberGuessingApp.dll
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.pdb
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\NumberGuessingApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\beecrowd\NumberGuessingApp\NumberGuessingApp\obj\Debug\net6.0\ref\NumberGuessingApp.dll
